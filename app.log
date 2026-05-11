@@ -1,0 +1,754 @@
+2026-05-07 21:44:46,895 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:44:46,895 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:44:46,895 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:44:46,896 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:44:46,896 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:44:46,896 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:44:46,896 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:46,896 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:46,896 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:48,606 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:48,608 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:48,608 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:48,608 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:51,207 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:51,221 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:51,223 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:44:51,223 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:44:51,223 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:44:51,223 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:51,223 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:51,223 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:52,483 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:52,485 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:52,485 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:52,485 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - extract zip
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:54,076 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:44:54,111 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:54,111 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:54,111 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:44:54,113 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:54,113 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:54,113 - AppLogger - DEBUG - remove zip
+2026-05-07 21:44:54,114 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:44:54,114 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:44:54,114 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:44:54,115 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:44:54,115 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:44:54,115 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:44:54,115 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:54,115 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:54,115 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:55,238 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:44:55,239 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:55,239 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:55,239 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:44:55,240 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:55,240 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:44:55,240 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:45:26,774 - AppLogger - DEBUG - extract zip
+2026-05-07 21:45:26,774 - AppLogger - DEBUG - extract zip
+2026-05-07 21:45:26,774 - AppLogger - DEBUG - extract zip
+2026-05-07 21:45:26,775 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:45:26,775 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:45:26,775 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:45:26,789 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:45:26,789 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:45:26,789 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:45:26,791 - AppLogger - DEBUG - remove zip
+2026-05-07 21:45:26,791 - AppLogger - DEBUG - remove zip
+2026-05-07 21:45:26,791 - AppLogger - DEBUG - remove zip
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:45:26,792 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:26,793 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:45:26,793 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:45:26,793 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:26,793 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:45:48,739 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:45:48,739 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:45:48,739 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:46:19,090 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:46:19,090 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:46:19,090 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:46:19,091 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:46:19,091 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:46:19,091 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:46:19,092 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:46:19,092 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:46:19,092 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:46:19,092 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:19,092 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:19,092 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:19,746 - AppLogger - DEBUG - start download
+2026-05-07 21:46:19,746 - AppLogger - DEBUG - start download
+2026-05-07 21:46:19,746 - AppLogger - DEBUG - start download
+2026-05-07 21:46:20,062 - AppLogger - DEBUG - end download
+2026-05-07 21:46:20,062 - AppLogger - DEBUG - end download
+2026-05-07 21:46:20,062 - AppLogger - DEBUG - end download
+2026-05-07 21:46:20,063 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:46:20,063 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:46:20,063 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:46:20,064 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:20,064 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:20,064 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:21,019 - AppLogger - DEBUG - start download
+2026-05-07 21:46:21,019 - AppLogger - DEBUG - start download
+2026-05-07 21:46:21,019 - AppLogger - DEBUG - start download
+2026-05-07 21:46:23,504 - AppLogger - DEBUG - end download
+2026-05-07 21:46:23,504 - AppLogger - DEBUG - end download
+2026-05-07 21:46:23,504 - AppLogger - DEBUG - end download
+2026-05-07 21:46:23,506 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:46:23,506 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:46:23,506 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:46:23,506 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:23,506 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:23,506 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,302 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,303 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,303 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,303 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - start download
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,820 - AppLogger - DEBUG - end download
+2026-05-07 21:46:24,821 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,821 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:24,821 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:46:25,617 - AppLogger - DEBUG - start download
+2026-05-07 21:46:25,617 - AppLogger - DEBUG - start download
+2026-05-07 21:46:25,617 - AppLogger - DEBUG - start download
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - end download
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - end download
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - end download
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:46:25,618 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:46:25,619 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:46:25,619 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:46:25,619 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:46:25,865 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:25,865 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:25,865 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:25,866 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:46:25,866 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:46:25,866 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:46:26,086 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:49:52,574 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:49:52,574 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:49:52,574 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:49:52,575 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:49:52,575 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:49:52,575 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:49:52,575 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:52,575 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:52,575 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:54,395 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:54,395 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:54,395 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:54,396 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:49:54,396 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:49:54,396 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:49:54,406 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:54,406 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:54,406 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:54,407 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:49:54,407 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:49:54,407 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:49:56,404 - AppLogger - DEBUG - extract zip
+2026-05-07 21:49:56,404 - AppLogger - DEBUG - extract zip
+2026-05-07 21:49:56,404 - AppLogger - DEBUG - extract zip
+2026-05-07 21:49:56,405 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:49:56,405 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:49:56,405 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:49:56,417 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:49:56,417 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:49:56,417 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:49:56,418 - AppLogger - DEBUG - remove zip
+2026-05-07 21:49:56,418 - AppLogger - DEBUG - remove zip
+2026-05-07 21:49:56,418 - AppLogger - DEBUG - remove zip
+2026-05-07 21:49:56,419 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:49:56,419 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:49:56,419 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:49:56,419 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:56,419 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:56,419 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:57,771 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:49:57,772 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:49:57,772 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:49:57,772 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:49:57,791 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:57,791 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:57,791 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:49:57,792 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:49:57,792 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:49:57,792 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:50:00,760 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:00,760 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:00,760 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:00,761 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:00,761 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:00,761 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:00,784 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:00,784 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:00,784 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:00,785 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:00,785 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:00,785 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:50:00,786 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:50:00,786 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:00,786 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:00,786 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:02,007 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:50:02,007 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:50:02,007 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:50:02,008 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:50:02,225 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:50:02,225 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:50:02,225 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:50:02,227 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:50:02,227 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:50:02,227 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:50:20,118 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:20,118 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:20,118 - AppLogger - DEBUG - extract zip
+2026-05-07 21:50:20,119 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:20,119 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:20,119 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:50:20,134 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:20,134 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:20,134 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - remove zip
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:50:20,137 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:50:20,138 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:20,139 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:50:20,139 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:50:20,139 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:50:20,139 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:51:03,613 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:51:03,613 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:51:03,613 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:52:03,554 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:52:03,554 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:52:03,554 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:52:03,555 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:52:03,555 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:52:03,555 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:52:03,555 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:52:03,555 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:52:03,555 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:52:03,555 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:03,555 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:03,555 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:07,564 - AppLogger - DEBUG - start download
+2026-05-07 21:52:07,564 - AppLogger - DEBUG - start download
+2026-05-07 21:52:07,564 - AppLogger - DEBUG - start download
+2026-05-07 21:52:08,134 - AppLogger - DEBUG - end download
+2026-05-07 21:52:08,134 - AppLogger - DEBUG - end download
+2026-05-07 21:52:08,134 - AppLogger - DEBUG - end download
+2026-05-07 21:52:08,135 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:52:08,135 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:52:08,135 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:52:08,135 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:08,135 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:08,135 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:08,668 - AppLogger - DEBUG - start download
+2026-05-07 21:52:08,668 - AppLogger - DEBUG - start download
+2026-05-07 21:52:08,668 - AppLogger - DEBUG - start download
+2026-05-07 21:52:11,155 - AppLogger - DEBUG - end download
+2026-05-07 21:52:11,155 - AppLogger - DEBUG - end download
+2026-05-07 21:52:11,155 - AppLogger - DEBUG - end download
+2026-05-07 21:52:11,157 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:52:11,157 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:52:11,157 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:52:11,157 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:11,157 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:11,157 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - start download
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - start download
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - start download
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - end download
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - end download
+2026-05-07 21:52:13,743 - AppLogger - DEBUG - end download
+2026-05-07 21:52:13,744 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:13,744 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:13,744 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:14,272 - AppLogger - DEBUG - start download
+2026-05-07 21:52:14,272 - AppLogger - DEBUG - start download
+2026-05-07 21:52:14,272 - AppLogger - DEBUG - start download
+2026-05-07 21:52:14,273 - AppLogger - DEBUG - end download
+2026-05-07 21:52:14,273 - AppLogger - DEBUG - end download
+2026-05-07 21:52:14,273 - AppLogger - DEBUG - end download
+2026-05-07 21:52:14,273 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:14,273 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:14,273 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - start download
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - start download
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - start download
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - end download
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - end download
+2026-05-07 21:52:17,327 - AppLogger - DEBUG - end download
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:52:17,328 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:52:17,530 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:52:17,727 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:55:04,504 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:55:04,504 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:55:04,504 - AppLogger - DEBUG - start downloading utils
+2026-05-07 21:55:04,505 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:55:04,505 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:55:04,505 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-07 21:55:04,505 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:04,505 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:04,505 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:06,524 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:06,524 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:06,524 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:06,525 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:55:06,525 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:55:06,525 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-07 21:55:06,534 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:06,534 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:06,534 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:06,535 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:06,535 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:06,535 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:10,138 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:10,151 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:10,153 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:55:10,153 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:55:10,153 - AppLogger - DEBUG - start download zapret
+2026-05-07 21:55:10,153 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:10,153 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:10,153 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:15,121 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:15,122 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:55:15,122 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:55:15,122 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-07 21:55:15,142 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:15,142 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:15,142 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:15,143 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:15,143 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:15,143 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:21,202 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:21,202 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:21,202 - AppLogger - DEBUG - extract zip
+2026-05-07 21:55:21,203 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:21,203 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:21,203 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:55:21,222 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:21,222 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:21,222 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:55:21,223 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:21,223 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:21,223 - AppLogger - DEBUG - remove zip
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:55:21,224 - AppLogger - DEBUG - start download zapret2
+2026-05-07 21:55:21,224 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:21,224 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:21,224 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:23,544 - AppLogger - DEBUG - start getting normalized dir
+2026-05-07 21:55:23,545 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:55:23,545 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:55:23,545 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-07 21:55:23,758 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:23,758 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:23,758 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-07 21:55:23,760 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:23,760 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:55:23,760 - AppLogger - DEBUG - open zip for extract
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - extract zip
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - extract zip
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - extract zip
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:56:21,078 - AppLogger - DEBUG - get dir normalized
+2026-05-07 21:56:21,092 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:56:21,092 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:56:21,092 - AppLogger - DEBUG - delete temp dir
+2026-05-07 21:56:21,096 - AppLogger - DEBUG - remove zip
+2026-05-07 21:56:21,096 - AppLogger - DEBUG - remove zip
+2026-05-07 21:56:21,096 - AppLogger - DEBUG - remove zip
+2026-05-07 21:56:21,097 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:56:21,097 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:56:21,097 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-07 21:56:21,098 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:56:21,098 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:56:21,098 - AppLogger - DEBUG - end downloading utils
+2026-05-07 21:56:21,099 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:56:21,099 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:56:21,099 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:56:21,099 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:56:21,099 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:56:21,099 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:56:21,100 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:56:21,100 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:56:21,100 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:56:21,100 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:56:21,100 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:56:21,100 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:57:28,517 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:57:28,517 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:57:28,517 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-07 21:59:41,532 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:59:41,532 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:59:41,532 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-07 21:59:41,533 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:59:41,533 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:59:41,533 - AppLogger - DEBUG - start download all domains
+2026-05-07 21:59:41,533 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:59:41,533 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:59:41,533 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-07 21:59:41,533 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:41,533 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:41,533 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:42,233 - AppLogger - DEBUG - start download
+2026-05-07 21:59:42,233 - AppLogger - DEBUG - start download
+2026-05-07 21:59:42,233 - AppLogger - DEBUG - start download
+2026-05-07 21:59:43,188 - AppLogger - DEBUG - end download
+2026-05-07 21:59:43,188 - AppLogger - DEBUG - end download
+2026-05-07 21:59:43,188 - AppLogger - DEBUG - end download
+2026-05-07 21:59:43,189 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:59:43,189 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:59:43,189 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-07 21:59:43,190 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:43,190 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:43,190 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:44,111 - AppLogger - DEBUG - start download
+2026-05-07 21:59:44,111 - AppLogger - DEBUG - start download
+2026-05-07 21:59:44,111 - AppLogger - DEBUG - start download
+2026-05-07 21:59:48,060 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,060 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,060 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,062 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:59:48,062 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:59:48,062 - AppLogger - INFO - start downloading zapret domains
+2026-05-07 21:59:48,062 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:48,062 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:48,062 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - start download
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - start download
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - start download
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,717 - AppLogger - DEBUG - end download
+2026-05-07 21:59:48,718 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:48,718 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:48,718 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - start download
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - start download
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - start download
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - end download
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - end download
+2026-05-07 21:59:49,680 - AppLogger - DEBUG - end download
+2026-05-07 21:59:49,680 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:49,680 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:49,680 - AppLogger - INFO - open aiohttp session
+2026-05-07 21:59:50,578 - AppLogger - DEBUG - start download
+2026-05-07 21:59:50,578 - AppLogger - DEBUG - start download
+2026-05-07 21:59:50,578 - AppLogger - DEBUG - start download
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - end download
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - end download
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - end download
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:59:50,579 - AppLogger - DEBUG - successfully download zapret-info domains
+2026-05-07 21:59:50,580 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:59:50,580 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:59:50,580 - AppLogger - DEBUG - end download all domains
+2026-05-07 21:59:50,803 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:50,803 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:50,803 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:50,804 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:59:50,804 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:59:50,804 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-07 21:59:51,003 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-08 19:36:38,156 - AppLogger - DEBUG - start downloading utils
+2026-05-08 19:36:38,180 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-08 19:36:38,180 - AppLogger - INFO - open aiohttp session
+2026-05-08 19:36:39,348 - AppLogger - DEBUG - start getting normalized dir
+2026-05-08 19:36:39,349 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-08 19:36:39,350 - AppLogger - DEBUG - open zip for extract
+2026-05-08 19:36:40,473 - AppLogger - DEBUG - extract zip
+2026-05-08 19:36:40,473 - AppLogger - DEBUG - get dir normalized
+2026-05-08 19:36:40,483 - AppLogger - DEBUG - delete temp dir
+2026-05-08 19:36:40,483 - AppLogger - DEBUG - remove zip
+2026-05-08 19:36:40,484 - AppLogger - DEBUG - start download zapret
+2026-05-08 19:36:40,484 - AppLogger - INFO - open aiohttp session
+2026-05-08 19:36:41,580 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-08 19:36:41,580 - AppLogger - DEBUG - start getting normalized dir
+2026-05-08 19:36:41,580 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-08 19:36:41,581 - AppLogger - DEBUG - open zip for extract
+2026-05-08 19:36:43,341 - AppLogger - DEBUG - extract zip
+2026-05-08 19:36:43,342 - AppLogger - DEBUG - get dir normalized
+2026-05-08 19:36:43,358 - AppLogger - DEBUG - delete temp dir
+2026-05-08 19:36:43,358 - AppLogger - DEBUG - remove zip
+2026-05-08 19:36:43,359 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-08 19:36:43,359 - AppLogger - DEBUG - start download zapret2
+2026-05-08 19:36:43,359 - AppLogger - INFO - open aiohttp session
+2026-05-08 19:36:44,353 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-08 19:36:44,353 - AppLogger - DEBUG - start getting normalized dir
+2026-05-08 19:36:44,353 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-08 19:36:44,354 - AppLogger - DEBUG - open zip for extract
+2026-05-08 19:37:02,768 - AppLogger - DEBUG - extract zip
+2026-05-08 19:37:02,768 - AppLogger - DEBUG - get dir normalized
+2026-05-08 19:37:02,778 - AppLogger - DEBUG - delete temp dir
+2026-05-08 19:37:02,780 - AppLogger - DEBUG - remove zip
+2026-05-08 19:37:02,780 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-08 19:37:02,780 - AppLogger - DEBUG - end downloading utils
+2026-05-08 19:37:02,781 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-ASN.mmdb
+2026-05-08 19:37:02,781 - AppLogger - INFO - open aiohttp session
+2026-05-08 19:37:02,781 - AppLogger - DEBUG - start downloadding https://git.io/GeoLite2-City.mmdb
+2026-05-08 19:37:02,781 - AppLogger - INFO - open aiohttp session
+2026-05-08 19:37:24,983 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-ASN.mmdb
+2026-05-08 19:37:28,141 - AppLogger - DEBUG - successfully download mmbd from https://git.io/GeoLite2-City.mmdb
+2026-05-08 19:37:28,142 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-08 19:37:29,250 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-08 19:37:29,251 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-08 19:37:30,680 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-08 19:37:30,681 - AppLogger - INFO - start downloading zapret 1
+2026-05-08 19:37:31,024 - AppLogger - DEBUG - end download zapret 1
+2026-05-08 19:37:31,024 - AppLogger - INFO - start downloading zapret 2
+2026-05-08 19:37:32,007 - AppLogger - DEBUG - end download zapret 2
+2026-05-08 19:37:32,008 - AppLogger - INFO - start downloading zapret 3
+2026-05-08 19:37:32,449 - AppLogger - DEBUG - end download zapret 3
+2026-05-08 19:37:32,566 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-08 19:37:32,567 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-08 19:37:32,714 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-08 19:37:32,715 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-08 19:59:30,253 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 19:59:30,285 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 20:56:34,234 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 20:56:34,248 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 20:58:22,750 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 20:58:22,763 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 20:58:55,710 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 20:58:55,724 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 20:59:30,438 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 20:59:30,453 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:10:50,084 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:10:50,100 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:21:30,706 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:21:30,719 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:22:21,913 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:22:21,928 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:22:28,919 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:22:28,933 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:23:09,132 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:23:09,147 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:23:34,214 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:23:34,228 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:24:09,279 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:24:09,293 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:24:35,298 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:24:35,313 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:25:06,733 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:25:06,747 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:25:35,258 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:25:35,272 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:25:37,116 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:25:37,130 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:26:47,483 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:26:47,498 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:26:48,893 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:26:48,906 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:31:24,885 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:31:24,899 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:34:07,975 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:34:07,990 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:37:02,595 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:37:02,609 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:37:42,226 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:37:42,240 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:39:17,036 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:39:17,050 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:39:43,875 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:39:43,890 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:41:50,553 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:41:50,567 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:42:27,531 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:42:27,545 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:43:03,324 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:43:03,338 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:44:51,189 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:44:51,203 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:45:34,494 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:45:34,509 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:58:34,875 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:58:34,889 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 21:59:06,462 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 21:59:06,476 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 22:02:32,529 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 22:02:32,543 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 22:04:20,587 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 22:04:20,601 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 22:05:19,835 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 22:05:19,850 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 22:06:08,772 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 22:06:08,786 - AppLogger - INFO - Warp account was created earlier
+2026-05-08 22:06:49,063 - AppLogger - INFO - Successfully | Warp found
+2026-05-08 22:06:49,078 - AppLogger - INFO - Warp account was created earlier
+2026-05-11 14:07:35,057 - AppLogger - INFO - Successfully | Warp found
+2026-05-11 14:07:35,097 - AppLogger - INFO - Warp account was created earlier
+2026-05-11 14:07:35,109 - AppLogger - INFO - Warp account was created earlier
+2026-05-11 14:07:46,481 - AppLogger - INFO - Successfully | Warp found
+2026-05-11 14:07:46,495 - AppLogger - INFO - Warp account was created earlier
+2026-05-11 14:08:12,181 - AppLogger - INFO - Successfully | Warp found
+2026-05-11 14:08:12,195 - AppLogger - INFO - Warp account was created earlier
+2026-05-11 16:35:13,010 - AppLogger - DEBUG - start downloading utils
+2026-05-11 16:35:13,011 - AppLogger - DEBUG - Start download WireGuard Config editor
+2026-05-11 16:35:13,011 - AppLogger - INFO - open aiohttp session
+2026-05-11 16:35:14,140 - AppLogger - DEBUG - Download and write WireGuard Config editor
+2026-05-11 16:36:52,441 - AppLogger - DEBUG - start downloading utils
+2026-05-11 16:36:52,441 - AppLogger - DEBUG - Start download WireGuard Config editor
+2026-05-11 16:36:52,441 - AppLogger - INFO - open aiohttp session
+2026-05-11 16:36:53,034 - AppLogger - DEBUG - Download and write WireGuard Config editor
+2026-05-11 16:37:11,318 - AppLogger - DEBUG - start downloading utils
+2026-05-11 16:37:11,318 - AppLogger - DEBUG - Start download WireGuard Config editor
+2026-05-11 16:37:11,318 - AppLogger - INFO - open aiohttp session
+2026-05-11 16:37:14,633 - AppLogger - DEBUG - Download and write WireGuard Config editor
+2026-05-11 16:37:22,457 - AppLogger - DEBUG - Start write WireGuard Config editor
+2026-05-11 16:37:22,458 - AppLogger - DEBUG - End download WireGuard Config editor
+2026-05-11 16:37:22,459 - AppLogger - DEBUG - end downloading utils
+2026-05-11 20:14:18,793 - AppLogger - DEBUG - start downloading utils
+2026-05-11 20:14:18,794 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:14:18,794 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:14:19,554 - AppLogger - DEBUG - Download and write WireSock
+2026-05-11 20:14:37,579 - AppLogger - DEBUG - Start write WireSock
+2026-05-11 20:14:37,579 - AppLogger - DEBUG - End download WireSock
+2026-05-11 20:14:37,580 - AppLogger - DEBUG - end downloading utils
+2026-05-11 20:18:15,167 - AppLogger - DEBUG - start downloading utils
+2026-05-11 20:18:15,167 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:18:15,167 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:18:56,459 - AppLogger - DEBUG - start downloading utils
+2026-05-11 20:18:56,474 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:18:56,474 - AppLogger - INFO - open aiohttp session
