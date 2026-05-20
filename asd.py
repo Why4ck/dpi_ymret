@@ -1,3 +1,5 @@
-from downloader import obfs
+from downloader import wiresock
 import asyncio
-asyncio.run(obfs())
+from elevate import elevate
+elevate()
+asyncio.run(wiresock())

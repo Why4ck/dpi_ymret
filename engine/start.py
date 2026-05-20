@@ -4,7 +4,6 @@ from warp import connecter as w
 import asyncio
 import os, sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import telemetry
 import psutil
 
 process_names = [
@@ -48,9 +47,6 @@ async def start():
     data = await w.main()
     
     if data:
-        data = await telemetry.get_ip_info()
-        country = data['country']
-        print(f"Страна подключения: {country}")
         return True
     else:
         await g.kill()

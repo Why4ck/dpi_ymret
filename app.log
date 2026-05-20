@@ -752,3 +752,113 @@
 2026-05-11 20:18:56,459 - AppLogger - DEBUG - start downloading utils
 2026-05-11 20:18:56,474 - AppLogger - DEBUG - Start download WireSock
 2026-05-11 20:18:56,474 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:58:07,705 - AppLogger - DEBUG - start downloading utils
+2026-05-11 20:58:07,705 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:58:07,705 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:58:29,634 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:58:29,634 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:59:28,062 - AppLogger - DEBUG - start downloading utils
+2026-05-11 20:59:28,062 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:59:28,062 - AppLogger - INFO - open aiohttp session
+2026-05-11 20:59:47,403 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 20:59:47,403 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:06:55,374 - AppLogger - DEBUG - start downloading utils
+2026-05-11 21:06:55,374 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:06:55,374 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:06:56,006 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:06:56,006 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:06:56,041 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:06:56,042 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:07:01,893 - AppLogger - DEBUG - start downloading utils
+2026-05-11 21:07:01,893 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:07:01,893 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:07:02,324 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:07:02,325 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:07:02,326 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:07:02,326 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:07:02,729 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:07:02,730 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:07:24,654 - AppLogger - DEBUG - start downloading utils
+2026-05-11 21:07:24,655 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:07:24,655 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:07:25,025 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:07:25,026 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:07:25,027 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:07:25,027 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:07:25,405 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:07:25,405 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:10:21,202 - AppLogger - DEBUG - start downloading utils
+2026-05-11 21:10:21,202 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:10:21,202 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:10:21,797 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:10:21,797 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:10:21,798 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:10:21,799 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:10:22,339 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:10:22,339 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:13:24,792 - AppLogger - DEBUG - start downloading utils
+2026-05-11 21:13:24,867 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:13:24,867 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:13:24,867 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:24,867 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:24,867 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:25,262 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:25,263 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:13:25,269 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:25,269 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:13:25,291 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:25,291 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:13:25,292 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:25,292 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:13:25,348 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:25,348 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:13:25,349 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:25,350 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:13:28,190 - AppLogger - DEBUG - extract zip
+2026-05-11 21:13:28,191 - AppLogger - DEBUG - get dir normalized
+2026-05-11 21:13:28,198 - AppLogger - DEBUG - delete temp dir
+2026-05-11 21:13:28,199 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-11 21:13:28,199 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:28,387 - AppLogger - DEBUG - extract zip
+2026-05-11 21:13:28,387 - AppLogger - DEBUG - get dir normalized
+2026-05-11 21:13:28,407 - AppLogger - DEBUG - delete temp dir
+2026-05-11 21:13:28,407 - AppLogger - DEBUG - remove zip
+2026-05-11 21:13:28,408 - AppLogger - DEBUG - start download zapret
+2026-05-11 21:13:28,408 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:28,640 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:28,641 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-11 21:13:28,648 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:28,649 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:13:29,948 - AppLogger - DEBUG - extract zip
+2026-05-11 21:13:29,949 - AppLogger - DEBUG - get dir normalized
+2026-05-11 21:13:29,959 - AppLogger - DEBUG - delete temp dir
+2026-05-11 21:13:29,959 - AppLogger - DEBUG - remove zip
+2026-05-11 21:13:29,960 - AppLogger - DEBUG - start download zapret
+2026-05-11 21:13:29,960 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:30,565 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-11 21:13:30,565 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:30,565 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-11 21:13:30,576 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:30,577 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:13:32,936 - AppLogger - DEBUG - extract zip
+2026-05-11 21:13:32,936 - AppLogger - DEBUG - get dir normalized
+2026-05-11 21:13:32,948 - AppLogger - DEBUG - delete temp dir
+2026-05-11 21:13:32,949 - AppLogger - DEBUG - remove zip
+2026-05-11 21:13:32,950 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-11 21:13:32,950 - AppLogger - DEBUG - start download zapret2
+2026-05-11 21:13:32,950 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:13:33,546 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-11 21:13:33,547 - AppLogger - DEBUG - start getting normalized dir
+2026-05-11 21:13:33,547 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-11 21:13:33,673 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-11 21:13:33,673 - AppLogger - DEBUG - open zip for extract
+2026-05-11 21:14:01,484 - AppLogger - DEBUG - extract zip
+2026-05-11 21:14:01,484 - AppLogger - DEBUG - get dir normalized
+2026-05-11 21:14:01,491 - AppLogger - DEBUG - delete temp dir
+2026-05-11 21:14:01,492 - AppLogger - DEBUG - remove zip
+2026-05-11 21:14:01,493 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-11 21:14:01,493 - AppLogger - DEBUG - end downloading utils
+2026-05-11 21:14:57,238 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 21:14:57,238 - AppLogger - INFO - open aiohttp session
+2026-05-11 21:15:34,129 - AppLogger - DEBUG - Start download WireSock
+2026-05-11 21:15:34,129 - AppLogger - INFO - open aiohttp session

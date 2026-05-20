@@ -60,7 +60,6 @@ pause"""
 
 dir_now = Path(__file__).parent
 bat_file = Path(dir_now / 'zapret2' / 'zapret-winws' / 'start.bat')
-kill_file = Path(dir_now / 'zapret2' / 'zapret-winws' / 'killall.exe')
 
 
 async def ensure_bat_exists():

@@ -9,6 +9,57 @@ import subprocess
 import psutil
 import requests
 
+bat_text = r"""@echo off
+chcp 65001 >nul
+cd /d "%~dp0"
+
+net session >nul 2>&1
+if %errorlevel% neq 0 (
+    echo ERROR: Запусти от имени Администратора!
+    pause
+    exit /b 1
+)
+
+taskkill /F /IM winws2.exe /T >nul 2>&1
+timeout /t 1 /nobreak >nul
+
+echo [WinWS2] Starting zapret2
+echo.
+
+winws2.exe ^
+--wf-tcp-out=80,443 ^
+--wf-tcp-in=80,443 ^
+--wf-udp-out=443 ^
+--wf-udp-in=443 ^
+--lua-init=@lua\zapret-lib.lua ^
+--lua-init=@lua\zapret-antidpi.lua ^
+--filter-tcp=80 --filter-l7=http ^
+  --out-range=-d10 ^
+  --payload=http_req ^
+  --lua-desync=fake:blob=fake_default_http:ip_autottl=-2,3-20:ip6_autottl=-2,3-20:tcp_md5 ^
+  --lua-desync=multisplit:pos=1:seqovl=5:seqovl_pattern=0x1603030000 ^
+  --new ^
+--filter-tcp=443 --filter-l7=tls ^
+  --out-range=-d10 ^
+  --payload=tls_client_hello ^
+  --lua-desync=fake:blob=fake_default_tls:tcp_md5:repeats=11:tls_mod=rnd,rndsni,dupsid,sni=www.google.com ^
+  --lua-desync=fakedsplit:pos=method+2:ip_autottl=-2,3-20:ip6_autottl=-2,3-20:tcp_md5 ^
+  --new ^
+--filter-udp=443 --filter-l7=quic ^
+  --out-range=-d10 ^
+  --payload=quic_initial ^
+  --lua-desync=fake:blob=fake_default_quic:repeats=11 ^
+  --new ^
+--filter-tcp=443 --filter-l7=unknown ^
+  --out-range=a ^
+  --payload=unknown ^
+  --lua-desync=fake:blob=fake_default_tls:repeats=6:ip_autottl=-2,3-20 ^
+  --lua-desync=fakedsplit:pos=1:ip_autottl=-2,3-20
+
+echo.
+echo WinWS2 остановлен.
+pause"""
+
 # Global request settings
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
@@ -25,7 +76,12 @@ async def fetch_data(url: str, name: str) -> str:
     logger.info(f'start downloading {name}')
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
-            response.raise_for_status()
+            try:
+                response.raise_for_status()
+            except:
+                response.raise_for_status()
+            
+            
             content = await response.text()
             logger.debug(f'end download {name}')
             return content
@@ -125,42 +181,24 @@ Dont use one session because github block multy download
                 logger.debug('download and normalizing zapret2')
                 await get_dir(response.content, Path(dir_now / 'zapret2.zip'), Path(dir_now / 'engine/zapret2/zapret2'))
         logger.debug('successfully zapret2 download and normalizing')
-    
-    async def wiresock():
-        logger.debug('Start download WireSock')
-        async with aiohttp.ClientSession() as session:
-            logger.info('open aiohttp session')
-            async with session.get(wiresock_link) as response:
-                logger.debug('Download and write WireSock')
-                async with aiofiles.open('wiresock_installer.exe', mode='wb') as f: # async with Triad
-                    await f.write(await response.read())
-                logger.debug('Start write WireSock')
-        logger.debug('End download WireSock')
-        
-        subprocess.run(['WireSockConnect.exe'], shell=True)
-
-        for proc in psutil.process_iter(['name']):
-            try:
-                if proc.info['name'] == "WireSockConnect.exe":
-                    proc.terminate()
-                    proc.wait(timeout=3)
-                    logger.debug('kill warp app process')
-            except (psutil.NoSuchProcess, psutil.AccessDenied) as e:
-                logger.critical(f'CRITICAL ERROR: {e}')
-
-        # delete file
-        if system == 'Windows':
-            try:
-                os.remove('WireSockConnect.exe')
-                logger.debug('deleted WireSockConnect.exe')
-            except OSError as e:
-                logger.critical(f'CRITICAL ERROR: {e}')
                     
     logger.debug('start downloading utils')
-    # await goodbyedpi()
-    # await zapret()
-    # await zapret2()
-    await wiresock()
+    try:
+        await goodbyedpi()
+    except:
+        await goodbyedpi()
+    
+    try:
+        await zapret()
+    except:
+        await zapret()
+        
+    try:
+        await zapret2()
+    except:
+        await zapret2()
+        
+
     logger.debug('end downloading utils')
 
 async def warp():
@@ -180,7 +218,7 @@ async def warp():
                 logger.debug('end write byte code to .msi file')
             
             logger.debug('start warp.msi')
-            subprocess.run([f'{dir_now}/warp.msi'], shell=True) # start .msi file
+            subprocess.run(['msiexec', '/i', f'{dir_now}/warp.msi'], shell=True) # start .msi file
             logger.debug('end warp.msi')
             
         
@@ -223,6 +261,61 @@ async def warp():
         except OSError as e:
             logger.critical(f'CRITICAL ERROR: {e}')
 
+async def wiresock():
+    # Start zapret2
+    async def start():
+        bat_file = Path(dir_now / 'zapret2' / 'zapret-winws' / 'start.bat')
+        async def ensure_bat_exists():
+            if not bat_file.is_file():
+                bat_file.parent.mkdir(parents=True, exist_ok=True)
+                async with aiofiles.open(bat_file, mode='w', encoding='utf-8') as f:
+                    await f.write(bat_text)
+            return bat_file.is_file()
+
+
+
+        async def connect():
+            if await ensure_bat_exists():
+                subprocess.run([str(bat_file)], shell=True)
+            else:
+                pass
+        
+        await connect()
+    
+    await start()
+    
+    
+    logger.debug('Start download WireSock')
+    async with aiohttp.ClientSession() as session:
+        logger.info('open aiohttp session')
+        async with session.get(wiresock_link) as response:
+            logger.debug('Download and write WireSock')
+            async with aiofiles.open('wiresock_installer.exe', mode='wb') as f: # async with Triad
+                await f.write(await response.read())
+            logger.debug('Start write WireSock')
+    logger.debug('End download WireSock')
+    
+    subprocess.run(['WireSockConnect.exe'], shell=True)
+
+    for proc in psutil.process_iter(['name']):
+        try:
+            if proc.info['name'] == "WireSockConnect.exe":
+                proc.terminate()
+                proc.wait(timeout=3)
+                logger.debug('kill warp app process')
+        except (psutil.NoSuchProcess, psutil.AccessDenied) as e:
+            logger.critical(f'CRITICAL ERROR: {e}')
+
+    # delete file
+    if system == 'Windows':
+        try:
+            os.remove('WireSockConnect.exe')
+            logger.debug('deleted WireSockConnect.exe')
+        except OSError as e:
+            logger.critical(f'CRITICAL ERROR: {e}')
+
+
+
 
 
 
@@ -245,3 +338,5 @@ async def warp():
 # async def telemetry():
 #     Path("telemetry/").mkdir(parents=True, exist_ok=True)
 #     await asyncio.gather(mmdb_downloader(asn, 'asn'), mmdb_downloader(city, 'city'))
+
+
