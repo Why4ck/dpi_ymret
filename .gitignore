@@ -5,3 +5,5 @@ app.log
 __pycache__\
 engine\app.log
 avatar_pictyre.ico
+main.build\
+main.dist\
