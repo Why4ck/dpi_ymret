@@ -25,7 +25,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-3. Пользуйтесь!
+3. Цифровая свобода
 `0 - выход`.
 `1 - Goodbyedpi + warp`.
 `2 - Отключение от всего`.
