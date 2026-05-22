@@ -77,4 +77,6 @@ async def connect():
     else:
         pass
 
-asyncio.run(connect())
+async def run():
+  await ensure_bat_exists()
+  await connect()

@@ -94,5 +94,4 @@ async def main():
     )
     
     print(Fore.GREEN, 'Finish', Style.RESET_ALL, sep='')
-    
-asyncio.run(main())
+    return True

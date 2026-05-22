@@ -84,7 +84,7 @@ async def fetch_data(url: str, name: str) -> str:
             
             content = await response.text()
             logger.debug(f'end download {name}')
-            return content
+            return content 
 
 
 async def domains():
@@ -112,13 +112,43 @@ async def domains():
 
 
 
+import os
+import shutil
+import asyncio
+import aiofiles
+import subprocess
+import time
+from pathlib import Path
+
+# ... остальные импорты и logger ...
+
 async def get_dir(response_stream, zip_name, extract_dir):
     logger.debug('start getting normalized dir')
+    
     if os.path.exists(extract_dir):
         logger.debug(f'remove tree of {extract_dir}')
-        shutil.rmtree(extract_dir)
-    
-    
+        
+        # 1. УБИВАЕМ ПРОЦЕССЫ И ДРАЙВЕР ПЕРЕД УДАЛЕНИЕМ
+        try:
+            # Убиваем процессы zapret/winws
+            subprocess.run(["taskkill", "/F", "/IM", "winws.exe"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            subprocess.run(["taskkill", "/F", "/IM", "zapret.exe"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            
+            # Останавливаем службу WinDivert, если она есть
+            subprocess.run(["sc", "stop", "WinDivert"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            
+            # Ждем освобождения файлов
+            await asyncio.sleep(1.5)
+        except Exception as e:
+            logger.warning(f"Could not stop processes before cleanup: {e}")
+
+        # 2. ТЕПЕРЬ БЕЗОПАСНО УДАЛЯЕМ
+        try:
+            shutil.rmtree(extract_dir)
+        except PermissionError:
+            logger.error(f"Failed to remove {extract_dir}. File still locked. Restart PC or close app manually.")
+            raise
+
     temp_dir = Path(dir_now / "temp_unpack")
     logger.debug('create temp dir for extract zip')
     os.makedirs(temp_dir, exist_ok=True)
@@ -131,21 +161,30 @@ async def get_dir(response_stream, zip_name, extract_dir):
 
     await asyncio.to_thread(shutil.unpack_archive, zip_name, temp_dir)
     logger.debug('extract zip')
+    
     items = os.listdir(temp_dir)
     
     if items:
         logger.debug('get dir normalized')
         nested_folder = os.path.join(temp_dir, items[0])
         
-        for item in os.listdir(nested_folder): # normalizing dir
-            s = os.path.join(nested_folder, item)
-            d = os.path.join(extract_dir, item)
-            shutil.move(s, d)
+        if os.path.isdir(nested_folder):
+            for item in os.listdir(nested_folder): # normalizing dir
+                s = os.path.join(nested_folder, item)
+                d = os.path.join(extract_dir, item)
+                shutil.move(s, d)
+        else:
+            for item in items:
+                s = os.path.join(temp_dir, item)
+                d = os.path.join(extract_dir, item)
+                shutil.move(s, d)
 
     shutil.rmtree(temp_dir)
     logger.debug('delete temp dir')
-    os.remove(zip_name)
-    logger.debug('remove zip')
+    
+    if os.path.exists(zip_name):
+        os.remove(zip_name)
+        logger.debug('remove zip')
 
 async def obfs():
     """

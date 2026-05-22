@@ -862,3 +862,870 @@
 2026-05-11 21:14:57,238 - AppLogger - INFO - open aiohttp session
 2026-05-11 21:15:34,129 - AppLogger - DEBUG - Start download WireSock
 2026-05-11 21:15:34,129 - AppLogger - INFO - open aiohttp session
+2026-05-22 17:51:51,608 - AppLogger - DEBUG - start downloading utils
+2026-05-22 17:51:51,610 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 17:51:51,610 - AppLogger - INFO - open aiohttp session
+2026-05-22 17:51:52,155 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 17:51:52,156 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 17:51:52,162 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 17:51:52,162 - AppLogger - DEBUG - open zip for extract
+2026-05-22 17:51:52,773 - AppLogger - DEBUG - extract zip
+2026-05-22 17:51:52,773 - AppLogger - DEBUG - get dir normalized
+2026-05-22 17:51:52,781 - AppLogger - DEBUG - delete temp dir
+2026-05-22 17:51:52,781 - AppLogger - DEBUG - remove zip
+2026-05-22 17:51:52,782 - AppLogger - DEBUG - start download zapret
+2026-05-22 17:51:52,783 - AppLogger - INFO - open aiohttp session
+2026-05-22 17:51:53,545 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 17:51:53,545 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 17:51:53,545 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 17:51:53,570 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 17:51:53,571 - AppLogger - DEBUG - open zip for extract
+2026-05-22 17:51:54,610 - AppLogger - DEBUG - extract zip
+2026-05-22 17:51:54,611 - AppLogger - DEBUG - get dir normalized
+2026-05-22 17:51:54,623 - AppLogger - DEBUG - delete temp dir
+2026-05-22 17:51:54,623 - AppLogger - DEBUG - remove zip
+2026-05-22 17:51:54,624 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 17:51:54,624 - AppLogger - DEBUG - start download zapret2
+2026-05-22 17:51:54,624 - AppLogger - INFO - open aiohttp session
+2026-05-22 17:51:55,272 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 17:51:55,273 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 17:51:55,273 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 17:51:55,411 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 17:51:55,412 - AppLogger - DEBUG - open zip for extract
+2026-05-22 17:52:01,403 - AppLogger - DEBUG - extract zip
+2026-05-22 17:52:01,403 - AppLogger - DEBUG - get dir normalized
+2026-05-22 17:52:01,411 - AppLogger - DEBUG - delete temp dir
+2026-05-22 17:52:01,413 - AppLogger - DEBUG - remove zip
+2026-05-22 17:52:01,414 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 17:52:01,414 - AppLogger - DEBUG - end downloading utils
+2026-05-22 17:52:01,414 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 17:52:02,150 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 17:52:02,151 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 17:52:03,825 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 17:52:03,826 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 17:52:04,134 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 17:52:04,134 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 17:52:04,437 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 17:52:04,437 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 17:52:04,716 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 17:52:04,856 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 17:52:04,856 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 17:52:04,999 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 17:52:05,000 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 17:59:15,546 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 17:59:15,574 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:01:34,377 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:01:34,390 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:03:44,171 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:03:44,186 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:03:59,333 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:03:59,352 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:05:11,223 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:05:11,236 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:11:19,636 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:11:19,648 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:12:19,301 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:12:19,316 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:13:24,681 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:13:24,694 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:14:21,420 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:14:21,433 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:15:02,604 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:15:02,618 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:17:56,761 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:17:56,774 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:19:01,601 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:19:01,614 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:19:23,978 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:19:23,992 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:41:44,028 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:41:44,042 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 18:43:29,754 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 18:43:29,767 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:06:10,036 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:06:10,049 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:06:23,643 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:06:23,656 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:06:50,364 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:06:50,379 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:07:27,261 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:07:27,274 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:07:44,980 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:07:44,992 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:08:07,396 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:08:07,410 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:08:31,547 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:08:31,560 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:08:54,759 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:08:54,772 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:09:53,682 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:09:53,695 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:10:14,088 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:10:14,101 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:11:18,534 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:11:18,547 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:11:45,808 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:11:45,822 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:13:52,752 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:13:52,766 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:15:13,366 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:15:13,380 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:16:07,646 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:16:07,659 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:19:15,615 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:19:15,628 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:19:52,292 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:19:52,305 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:23:32,958 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:23:32,971 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:27:46,379 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:27:46,393 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:27:56,556 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:27:56,570 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:30:50,357 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:30:50,370 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:33:08,105 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:33:08,119 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:33:17,384 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:33:17,397 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:33:32,442 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:33:32,456 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:34:58,164 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:34:58,177 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:36:15,772 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:36:15,785 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 19:37:18,303 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 19:37:18,317 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:26:40,734 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:26:40,748 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:26:40,997 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:26:40,997 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:26:40,997 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:41,063 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:26:41,063 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:46,829 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:26:46,843 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:26:46,908 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:26:46,908 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:26:46,909 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:47,469 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:26:47,470 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:26:47,476 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:26:47,477 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:26:47,823 - AppLogger - DEBUG - extract zip
+2026-05-22 21:26:47,823 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:26:47,831 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:26:47,831 - AppLogger - DEBUG - remove zip
+2026-05-22 21:26:47,832 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:26:47,832 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:48,594 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:26:48,595 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:26:48,595 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:26:48,606 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:26:48,606 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:26:49,664 - AppLogger - DEBUG - extract zip
+2026-05-22 21:26:49,664 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:26:49,677 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:26:49,678 - AppLogger - DEBUG - remove zip
+2026-05-22 21:26:49,678 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:26:49,679 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:26:49,679 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:50,417 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:26:50,417 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:26:50,417 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:26:50,554 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:26:50,554 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:26:51,093 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:26:51,093 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:26:51,093 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:27:43,382 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:27:43,396 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:27:43,461 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:27:43,461 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:27:43,461 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:43,839 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:43,840 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:27:43,846 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:27:43,846 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:27:44,220 - AppLogger - DEBUG - extract zip
+2026-05-22 21:27:44,220 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:27:44,228 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:27:44,228 - AppLogger - DEBUG - remove zip
+2026-05-22 21:27:44,229 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:27:44,229 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:44,758 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:27:44,759 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:44,759 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:27:44,770 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:27:44,770 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:27:45,540 - AppLogger - DEBUG - extract zip
+2026-05-22 21:27:45,540 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:27:45,553 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:27:45,553 - AppLogger - DEBUG - remove zip
+2026-05-22 21:27:45,554 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:27:45,554 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:27:45,554 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:46,129 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:27:46,129 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:46,129 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:27:46,131 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:27:46,131 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:46,804 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:27:46,804 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:46,804 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:27:55,113 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:27:55,126 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:27:55,190 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:27:55,190 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:27:55,190 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:55,545 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:55,545 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:27:55,550 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:27:55,551 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:27:55,943 - AppLogger - DEBUG - extract zip
+2026-05-22 21:27:55,943 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:27:55,950 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:27:55,951 - AppLogger - DEBUG - remove zip
+2026-05-22 21:27:55,952 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:27:55,952 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:56,617 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:27:56,617 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:56,617 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:27:56,628 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:27:56,629 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:27:57,304 - AppLogger - DEBUG - extract zip
+2026-05-22 21:27:57,304 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:27:57,316 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:27:57,316 - AppLogger - DEBUG - remove zip
+2026-05-22 21:27:57,317 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:27:57,317 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:27:57,317 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:57,866 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:27:57,866 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:57,866 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:27:57,868 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:27:57,868 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:27:58,487 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:27:58,487 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:27:58,487 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:30:31,945 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:30:31,958 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:30:32,024 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:30:32,024 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:30:32,024 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:30:32,602 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:30:32,602 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:30:32,608 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:30:32,609 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:30:32,978 - AppLogger - DEBUG - extract zip
+2026-05-22 21:30:32,978 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:30:32,986 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:30:32,986 - AppLogger - DEBUG - remove zip
+2026-05-22 21:30:32,987 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:30:32,987 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:30:33,875 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:30:33,875 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:30:33,876 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:30:33,887 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:30:33,888 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:30:34,967 - AppLogger - DEBUG - extract zip
+2026-05-22 21:30:34,967 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:30:34,980 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:30:34,980 - AppLogger - DEBUG - remove zip
+2026-05-22 21:30:34,981 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:30:34,981 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:30:34,981 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:30:35,794 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:30:35,794 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:30:35,795 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:30:35,797 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:30:35,797 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:30:36,310 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:30:36,310 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:30:36,310 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:33:33,445 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:33:33,458 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:33:33,517 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:33:33,517 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:33:33,518 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:33:55,592 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:33:55,593 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:33:55,598 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:33:55,599 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:33:55,939 - AppLogger - DEBUG - extract zip
+2026-05-22 21:33:55,940 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:33:55,947 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:33:55,947 - AppLogger - DEBUG - remove zip
+2026-05-22 21:33:55,948 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:33:55,948 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:33:56,615 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:33:56,616 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:33:56,616 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:33:56,627 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:33:56,627 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:33:57,522 - AppLogger - DEBUG - extract zip
+2026-05-22 21:33:57,522 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:33:57,534 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:33:57,535 - AppLogger - DEBUG - remove zip
+2026-05-22 21:33:57,535 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:33:57,536 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:33:57,536 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:33:58,089 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:33:58,089 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:33:58,089 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:33:58,091 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:33:58,091 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:33:58,607 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:33:58,607 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:33:58,607 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:37:18,273 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:37:18,287 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:37:18,354 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:37:18,354 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:37:18,354 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:37:18,907 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:37:18,907 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:37:20,543 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:37:20,543 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:37:20,576 - AppLogger - DEBUG - extract zip
+2026-05-22 21:37:20,576 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:37:20,584 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:37:20,584 - AppLogger - DEBUG - remove zip
+2026-05-22 21:37:20,585 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:37:20,585 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:37:21,264 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:37:21,264 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:37:21,264 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:37:22,875 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:37:22,876 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:37:23,007 - AppLogger - DEBUG - extract zip
+2026-05-22 21:37:23,007 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:37:23,019 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:37:23,020 - AppLogger - DEBUG - remove zip
+2026-05-22 21:37:23,020 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:37:23,021 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:37:23,021 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:37:23,962 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:37:23,962 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:37:23,962 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:37:25,574 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:37:25,575 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:37:31,121 - AppLogger - DEBUG - extract zip
+2026-05-22 21:37:31,122 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:37:31,239 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:37:31,241 - AppLogger - DEBUG - remove zip
+2026-05-22 21:37:31,242 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 21:37:31,242 - AppLogger - DEBUG - end downloading utils
+2026-05-22 21:37:31,242 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 21:37:32,075 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 21:37:32,075 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 21:37:33,722 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 21:37:33,723 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 21:37:34,027 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 21:37:34,027 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 21:37:34,302 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 21:37:34,302 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 21:37:34,553 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 21:37:34,660 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:37:34,661 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:37:34,769 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:37:34,770 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:39:56,849 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:39:56,863 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:39:56,924 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:39:56,924 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:39:56,925 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:39:57,436 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:39:57,436 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:39:59,045 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:39:59,046 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:39:59,079 - AppLogger - DEBUG - extract zip
+2026-05-22 21:39:59,079 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:39:59,086 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:39:59,087 - AppLogger - DEBUG - remove zip
+2026-05-22 21:39:59,088 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:39:59,088 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:39:59,875 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:39:59,875 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:39:59,875 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:40:01,480 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:40:01,480 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:40:02,264 - AppLogger - DEBUG - extract zip
+2026-05-22 21:40:02,264 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:40:02,276 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:40:02,277 - AppLogger - DEBUG - remove zip
+2026-05-22 21:40:02,278 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:40:02,278 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:40:02,278 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:40:03,018 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:40:03,018 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:40:03,018 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:40:04,749 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:40:04,749 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:40:09,016 - AppLogger - DEBUG - extract zip
+2026-05-22 21:40:09,016 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:40:09,024 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:40:09,026 - AppLogger - DEBUG - remove zip
+2026-05-22 21:40:09,026 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 21:40:09,026 - AppLogger - DEBUG - end downloading utils
+2026-05-22 21:40:09,027 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 21:40:09,340 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 21:40:09,341 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 21:40:14,643 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 21:40:14,644 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 21:40:14,769 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 21:40:14,770 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 21:40:14,912 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 21:40:14,912 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 21:40:15,035 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 21:40:15,162 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:40:15,162 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:40:15,261 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:40:15,261 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:52:37,761 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:52:37,775 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:53:45,676 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:53:45,690 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:56:27,688 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:56:27,702 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:56:38,592 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:56:38,605 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:57:05,770 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:57:05,783 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:57:05,827 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:57:05,827 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:57:05,827 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:57:24,568 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:57:24,568 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:57:24,900 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:57:24,900 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:57:47,840 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:57:47,854 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:57:47,896 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:57:47,896 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:57:47,896 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:57:48,247 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:57:48,247 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:57:49,863 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:57:49,863 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:57:49,896 - AppLogger - DEBUG - extract zip
+2026-05-22 21:57:49,897 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:57:49,904 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:57:49,905 - AppLogger - DEBUG - remove zip
+2026-05-22 21:57:49,905 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:57:49,906 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:57:50,681 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:57:50,681 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:57:50,681 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:57:52,301 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:57:52,302 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:57:52,758 - AppLogger - DEBUG - extract zip
+2026-05-22 21:57:52,758 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:57:52,770 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:57:52,771 - AppLogger - DEBUG - remove zip
+2026-05-22 21:57:52,772 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:57:52,772 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:57:52,772 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:57:53,521 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:57:53,521 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:57:53,521 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:57:55,274 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:57:55,274 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:58:00,875 - AppLogger - DEBUG - extract zip
+2026-05-22 21:58:00,875 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:58:00,883 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:58:00,885 - AppLogger - DEBUG - remove zip
+2026-05-22 21:58:00,885 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 21:58:00,885 - AppLogger - DEBUG - end downloading utils
+2026-05-22 21:58:00,886 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 21:58:01,331 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 21:58:01,331 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 21:58:02,115 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 21:58:02,116 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 21:58:02,382 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 21:58:02,382 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 21:58:02,636 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 21:58:02,636 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 21:58:02,898 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 21:58:03,022 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:58:03,023 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:58:03,121 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:58:03,121 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:58:23,858 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:58:23,871 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:58:23,912 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:58:23,912 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:58:23,912 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:58:24,274 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:58:24,274 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:58:25,882 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:58:25,882 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:58:25,916 - AppLogger - DEBUG - extract zip
+2026-05-22 21:58:25,916 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:58:25,923 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:58:25,924 - AppLogger - DEBUG - remove zip
+2026-05-22 21:58:25,925 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:58:25,925 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:58:26,474 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:58:26,475 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:58:26,475 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:58:28,089 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:58:28,090 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:58:28,508 - AppLogger - DEBUG - extract zip
+2026-05-22 21:58:28,509 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:58:28,521 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:58:28,521 - AppLogger - DEBUG - remove zip
+2026-05-22 21:58:28,522 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:58:28,522 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:58:28,522 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:58:29,034 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:58:29,034 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:58:29,035 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:58:30,767 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:58:30,767 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:58:35,886 - AppLogger - DEBUG - extract zip
+2026-05-22 21:58:35,886 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:58:35,894 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:58:35,895 - AppLogger - DEBUG - remove zip
+2026-05-22 21:58:35,896 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 21:58:35,896 - AppLogger - DEBUG - end downloading utils
+2026-05-22 21:58:35,897 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 21:58:36,440 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 21:58:36,441 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 21:58:37,036 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 21:58:37,037 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 21:58:37,177 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 21:58:37,178 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 21:58:37,303 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 21:58:37,304 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 21:58:37,432 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 21:58:37,569 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:58:37,569 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:58:37,677 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:58:37,677 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:58:57,453 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 21:58:57,466 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 21:58:57,506 - AppLogger - DEBUG - start downloading utils
+2026-05-22 21:58:57,506 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 21:58:57,506 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:58:57,876 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:58:57,876 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 21:58:59,495 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:58:59,496 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:58:59,529 - AppLogger - DEBUG - extract zip
+2026-05-22 21:58:59,529 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:58:59,536 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:58:59,537 - AppLogger - DEBUG - remove zip
+2026-05-22 21:58:59,538 - AppLogger - DEBUG - start download zapret
+2026-05-22 21:58:59,538 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:59:00,040 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 21:59:00,040 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:59:00,041 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 21:59:01,643 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:59:01,644 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:59:02,086 - AppLogger - DEBUG - extract zip
+2026-05-22 21:59:02,086 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:59:02,099 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:59:02,100 - AppLogger - DEBUG - remove zip
+2026-05-22 21:59:02,100 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 21:59:02,100 - AppLogger - DEBUG - start download zapret2
+2026-05-22 21:59:02,101 - AppLogger - INFO - open aiohttp session
+2026-05-22 21:59:02,643 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 21:59:02,643 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 21:59:02,643 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 21:59:04,384 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 21:59:04,384 - AppLogger - DEBUG - open zip for extract
+2026-05-22 21:59:08,912 - AppLogger - DEBUG - extract zip
+2026-05-22 21:59:08,912 - AppLogger - DEBUG - get dir normalized
+2026-05-22 21:59:08,920 - AppLogger - DEBUG - delete temp dir
+2026-05-22 21:59:08,922 - AppLogger - DEBUG - remove zip
+2026-05-22 21:59:08,922 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 21:59:08,922 - AppLogger - DEBUG - end downloading utils
+2026-05-22 21:59:08,923 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 21:59:09,275 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 21:59:09,275 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 21:59:09,866 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 21:59:09,867 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 21:59:09,993 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 21:59:09,994 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 21:59:10,124 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 21:59:10,124 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 21:59:10,269 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 21:59:10,384 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:59:10,384 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 21:59:10,493 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 21:59:10,494 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 22:00:28,401 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:00:28,415 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:00:55,136 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:00:55,149 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:02:31,267 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:02:31,281 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:02:31,341 - AppLogger - DEBUG - start downloading utils
+2026-05-22 22:02:31,341 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:02:31,342 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:02:31,871 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:02:31,871 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:02:33,478 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:02:33,479 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:02:33,512 - AppLogger - DEBUG - extract zip
+2026-05-22 22:02:33,513 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:02:33,520 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:02:33,520 - AppLogger - DEBUG - remove zip
+2026-05-22 22:02:33,521 - AppLogger - DEBUG - start download zapret
+2026-05-22 22:02:33,521 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:02:34,326 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 22:02:34,326 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:02:34,327 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 22:02:35,929 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:02:35,930 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:02:36,057 - AppLogger - DEBUG - extract zip
+2026-05-22 22:02:36,057 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:02:36,069 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:02:36,070 - AppLogger - DEBUG - remove zip
+2026-05-22 22:02:36,071 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 22:02:36,071 - AppLogger - DEBUG - start download zapret2
+2026-05-22 22:02:36,071 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:02:36,846 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 22:02:36,846 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:02:36,847 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 22:02:38,580 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:02:38,581 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:02:43,985 - AppLogger - DEBUG - extract zip
+2026-05-22 22:02:43,985 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:02:43,994 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:02:43,995 - AppLogger - DEBUG - remove zip
+2026-05-22 22:02:43,996 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 22:02:43,996 - AppLogger - DEBUG - end downloading utils
+2026-05-22 22:02:43,997 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 22:02:44,368 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 22:02:44,368 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 22:02:45,050 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 22:02:45,051 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 22:02:45,205 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 22:02:45,205 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 22:02:45,346 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 22:02:45,346 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 22:02:45,471 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 22:02:45,585 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 22:02:45,586 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 22:02:45,695 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 22:02:45,695 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 22:03:04,546 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:03:04,559 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:03:04,621 - AppLogger - DEBUG - start downloading utils
+2026-05-22 22:03:04,621 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:03:04,621 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:03:05,049 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:03:05,049 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:03:06,548 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:03:06,548 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:03:06,966 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:03:06,966 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:03:08,565 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:03:08,566 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:03:08,600 - AppLogger - DEBUG - extract zip
+2026-05-22 22:03:08,600 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:03:08,608 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:03:08,608 - AppLogger - DEBUG - remove zip
+2026-05-22 22:03:08,609 - AppLogger - DEBUG - start download zapret
+2026-05-22 22:03:08,609 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:03:09,177 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 22:03:09,177 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:03:09,177 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 22:04:44,631 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:04:44,644 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:05:05,279 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:05:05,292 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:05:05,352 - AppLogger - DEBUG - start downloading utils
+2026-05-22 22:05:05,352 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:05:05,352 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:05:05,862 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:05:05,862 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:05:07,473 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:05:07,473 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:05:07,509 - AppLogger - DEBUG - extract zip
+2026-05-22 22:05:07,509 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:05:07,516 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:05:07,517 - AppLogger - DEBUG - remove zip
+2026-05-22 22:05:07,518 - AppLogger - DEBUG - start download zapret
+2026-05-22 22:05:07,518 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:05:08,260 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 22:05:08,260 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:05:08,260 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 22:06:37,647 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:06:37,660 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:06:37,721 - AppLogger - DEBUG - start downloading utils
+2026-05-22 22:06:37,721 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:06:37,722 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:06:38,177 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:06:38,178 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:06:39,783 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:06:39,784 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:06:39,817 - AppLogger - DEBUG - extract zip
+2026-05-22 22:06:39,817 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:06:39,824 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:06:39,824 - AppLogger - DEBUG - remove zip
+2026-05-22 22:06:39,825 - AppLogger - DEBUG - start download zapret
+2026-05-22 22:06:39,825 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:06:40,464 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 22:06:40,464 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:06:40,464 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 22:08:24,806 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:08:24,819 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:11:41,170 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:11:41,184 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:14:49,490 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:14:49,503 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:16:12,222 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:16:12,235 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 22:16:16,287 - AppLogger - DEBUG - start downloading utils
+2026-05-22 22:16:16,287 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 22:16:16,287 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:16:16,837 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:16:16,838 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\goodbyedpi\goodbyedpi
+2026-05-22 22:16:18,485 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:16:18,485 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:16:18,518 - AppLogger - DEBUG - extract zip
+2026-05-22 22:16:18,518 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:16:18,526 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:16:18,526 - AppLogger - DEBUG - remove zip
+2026-05-22 22:16:18,527 - AppLogger - DEBUG - start download zapret
+2026-05-22 22:16:18,527 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:16:19,432 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 22:16:19,432 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:16:19,432 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret\zapret
+2026-05-22 22:16:21,045 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:16:21,046 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:16:21,175 - AppLogger - DEBUG - extract zip
+2026-05-22 22:16:21,175 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:16:21,187 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:16:21,188 - AppLogger - DEBUG - remove zip
+2026-05-22 22:16:21,189 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 22:16:21,189 - AppLogger - DEBUG - start download zapret2
+2026-05-22 22:16:21,189 - AppLogger - INFO - open aiohttp session
+2026-05-22 22:16:21,988 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 22:16:21,988 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 22:16:21,988 - AppLogger - DEBUG - remove tree of d:\Germanator\Code_Work\Projects\000_dpi_ymret\engine\zapret2\zapret2
+2026-05-22 22:16:23,714 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 22:16:23,715 - AppLogger - DEBUG - open zip for extract
+2026-05-22 22:16:27,469 - AppLogger - DEBUG - extract zip
+2026-05-22 22:16:27,469 - AppLogger - DEBUG - get dir normalized
+2026-05-22 22:16:27,494 - AppLogger - DEBUG - delete temp dir
+2026-05-22 22:16:27,640 - AppLogger - DEBUG - remove zip
+2026-05-22 22:16:27,641 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 22:16:27,641 - AppLogger - DEBUG - end downloading utils
+2026-05-22 22:16:27,642 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 22:16:28,089 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 22:16:28,090 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 22:16:29,013 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 22:16:29,014 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 22:16:29,331 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 22:16:29,332 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 22:16:29,617 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 22:16:29,617 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 22:16:29,868 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 22:16:29,983 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 22:16:29,984 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 22:16:30,086 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 22:16:30,086 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 22:18:26,915 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 22:18:26,928 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 23:20:26,137 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 23:20:26,218 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 23:20:26,283 - AppLogger - DEBUG - start downloading utils
+2026-05-22 23:20:26,283 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 23:20:26,283 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:20:26,887 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:20:26,888 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:20:26,889 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:20:27,267 - AppLogger - DEBUG - extract zip
+2026-05-22 23:20:27,267 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:20:27,274 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:20:27,274 - AppLogger - DEBUG - remove zip
+2026-05-22 23:20:27,275 - AppLogger - DEBUG - start download zapret
+2026-05-22 23:20:27,275 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:20:27,982 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 23:20:27,982 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:20:27,982 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:20:27,983 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:20:28,977 - AppLogger - DEBUG - extract zip
+2026-05-22 23:20:28,977 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:20:28,987 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:20:28,987 - AppLogger - DEBUG - remove zip
+2026-05-22 23:20:28,988 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 23:20:28,988 - AppLogger - DEBUG - start download zapret2
+2026-05-22 23:20:28,988 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:20:29,915 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 23:20:29,915 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:20:29,916 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:20:29,916 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:20:36,493 - AppLogger - DEBUG - extract zip
+2026-05-22 23:20:36,494 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:20:36,498 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:20:36,500 - AppLogger - DEBUG - remove zip
+2026-05-22 23:20:36,501 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 23:20:36,501 - AppLogger - DEBUG - end downloading utils
+2026-05-22 23:20:36,502 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 23:20:37,361 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 23:20:37,362 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 23:20:39,081 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 23:20:39,082 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 23:20:39,353 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 23:20:39,354 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 23:20:39,620 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 23:20:39,620 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 23:20:39,910 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 23:20:40,027 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 23:20:40,028 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 23:20:40,128 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 23:20:40,128 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 23:21:57,778 - AppLogger - INFO - Successfully | Warp found
+2026-05-22 23:21:57,792 - AppLogger - INFO - Warp account was created earlier
+2026-05-22 23:21:57,894 - AppLogger - DEBUG - start downloading utils
+2026-05-22 23:21:57,894 - AppLogger - DEBUG - start download goodbyedpi
+2026-05-22 23:21:57,895 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:21:58,455 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:21:58,456 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:21:58,457 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:21:59,164 - AppLogger - DEBUG - extract zip
+2026-05-22 23:21:59,164 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:21:59,171 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:21:59,171 - AppLogger - DEBUG - remove zip
+2026-05-22 23:21:59,172 - AppLogger - DEBUG - start download zapret
+2026-05-22 23:21:59,172 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:21:59,878 - AppLogger - DEBUG - download and normalizing zapret
+2026-05-22 23:21:59,878 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:21:59,878 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:21:59,879 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:22:01,908 - AppLogger - DEBUG - extract zip
+2026-05-22 23:22:01,908 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:22:01,918 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:22:01,918 - AppLogger - DEBUG - remove zip
+2026-05-22 23:22:01,919 - AppLogger - DEBUG - successfully zapret download and normalizing
+2026-05-22 23:22:01,919 - AppLogger - DEBUG - start download zapret2
+2026-05-22 23:22:01,919 - AppLogger - INFO - open aiohttp session
+2026-05-22 23:22:02,546 - AppLogger - DEBUG - download and normalizing zapret2
+2026-05-22 23:22:02,546 - AppLogger - DEBUG - start getting normalized dir
+2026-05-22 23:22:02,546 - AppLogger - DEBUG - create temp dir for extract zip
+2026-05-22 23:22:02,547 - AppLogger - DEBUG - open zip for extract
+2026-05-22 23:22:11,919 - AppLogger - DEBUG - extract zip
+2026-05-22 23:22:11,919 - AppLogger - DEBUG - get dir normalized
+2026-05-22 23:22:11,924 - AppLogger - DEBUG - delete temp dir
+2026-05-22 23:22:11,926 - AppLogger - DEBUG - remove zip
+2026-05-22 23:22:11,927 - AppLogger - DEBUG - successfully zapret2 download and normalizing
+2026-05-22 23:22:11,927 - AppLogger - DEBUG - end downloading utils
+2026-05-22 23:22:11,927 - AppLogger - INFO - start downloading goodbyedpi domains
+2026-05-22 23:22:12,352 - AppLogger - DEBUG - end download goodbyedpi domains
+2026-05-22 23:22:12,352 - AppLogger - INFO - start downloading zapret-info domains
+2026-05-22 23:22:13,878 - AppLogger - DEBUG - end download zapret-info domains
+2026-05-22 23:22:13,879 - AppLogger - INFO - start downloading zapret 1
+2026-05-22 23:22:14,050 - AppLogger - DEBUG - end download zapret 1
+2026-05-22 23:22:14,050 - AppLogger - INFO - start downloading zapret 2
+2026-05-22 23:22:14,194 - AppLogger - DEBUG - end download zapret 2
+2026-05-22 23:22:14,195 - AppLogger - INFO - start downloading zapret 3
+2026-05-22 23:22:14,383 - AppLogger - DEBUG - end download zapret 3
+2026-05-22 23:22:14,513 - AppLogger - DEBUG - start writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 23:22:14,514 - AppLogger - DEBUG - start writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
+2026-05-22 23:22:14,620 - AppLogger - DEBUG - finished writing domains to engine/goodbyedpi/goodbyedpi/russia-blacklist.txt
+2026-05-22 23:22:14,620 - AppLogger - DEBUG - finished writing domains to engine/zapret2/zapret2/zapret-winws/list.txt
